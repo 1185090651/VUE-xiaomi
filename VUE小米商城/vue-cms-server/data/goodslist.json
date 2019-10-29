@@ -1,0 +1,154 @@
+{
+    "list":[
+        {
+            "id":1,
+            "title":"【新品抢购】Redmi Note8 4800万全场景四摄 4000mAh长续航 高通骁龙665 18W快充 小金刚品质保证 4GB+64GB 皓月白 游戏智能手机 小米 红米",
+            "img_url":"//img14.360buyimg.com/mobilecms/s410x410_jfs/t1/65786/38/8555/351173/5d674913E0a3b51f6/8d2e3fadc4cfac3c.jpg!q70.dpg.webp",
+            "nprice":"999",
+            "oprice":"1199",
+            "num":"645",
+            "max":10,
+            "time":"2018-05-31T03:50:28.000Z"
+        },
+        {
+            "id":2,
+            "title":"小米9 Pro 5G 骁龙855Plus 30W无线闪充 12GB+512GB 钛银黑 双卡全网通 全面屏智能新品手机",
+            "img_url":"//img10.360buyimg.com/mobilecms/s410x410_jfs/t1/80631/20/11266/125539/5d89bd00Ea4421432/94f11b10657150ad.jpg!q70.dpg.webp",
+            "nprice":"4299",
+            "oprice":"4399",
+            "num":"99",
+            "max":10,
+            "time":"2018-05-31T03:51:28.000Z"
+        },
+        {
+            "id":3,
+            "title":"Redmi K20Pro 骁龙855 索尼4800万超广角三摄  AMOLED弹出式全面屏 6GB+128GB 碳纤黑 游戏智能手机 小米 红米",
+            "img_url":"//img13.360buyimg.com/mobilecms/s410x410_jfs/t1/39922/24/15447/189604/5d67a603Ebdb5c6c4/09ddd17f500d721e.jpg!q70.dpg.webp",
+            "nprice":"1399",
+            "oprice":"1459",
+            "num":"554",
+            "max":13,
+            "time":"2018-05-31T03:50:28.000Z"
+        },
+        {
+            "id":4,
+            "title":"Redmi Note7 4800万双摄千元机 满血骁龙660 18个月超长质保 4000mAh超长续航 6GB+64GB 镜花水月 游戏智能手机 小米 红米",
+            "img_url":"//img10.360buyimg.com/mobilecms/s410x410_jfs/t1/79420/38/4736/146092/5d2da5a0E9b55e4b0/77b91a2b2220193e.jpg!q70.dpg.webp",
+            "nprice":"1099",
+            "oprice":"1199",
+            "num":"25",
+            "max":2,
+            "time":"2018-05-31T03:50:28.000Z"
+        },
+        {
+            "id":5,
+            "title":"Redmi K20Pro 骁龙855 索尼4800万超广角三摄  AMOLED弹出式全面屏 6GB+128GB 碳纤黑 游戏智能手机 小米 红米",
+            "img_url":"//img13.360buyimg.com/mobilecms/s410x410_jfs/t1/55497/8/998/224755/5ceb8e52E5f285d24/4f891725820434ef.jpg!q70.dpg.webp",
+            "nprice":"2299",
+            "oprice":"2469",
+            "num":"421",
+            "max":30,
+            "time":"2018-05-31T03:50:28.000Z"
+        },
+        {
+            "id":6,
+            "title":"Redmi K20Pro 尊享版 骁龙855Plus 索尼4800万超广角三摄  AMOLED弹出式全面屏 12GB+512GB 冰川蓝 游戏智能手机 小米 红米",
+            "img_url":"//img13.360buyimg.com/mobilecms/s410x410_jfs/t1/75294/27/10694/217626/5d82fbabE9da1ddce/8d225d3a4f313074.jpg!q70.dpg.webp",
+            "nprice":"3199",
+            "oprice":"3499",
+            "num":"645",
+            "max":10,
+            "time":"2018-05-31T03:50:28.000Z"
+        },
+        {
+            "id":7,
+            "title":"Redmi K20 索尼4800万超广角三摄 AMOLED弹出式全面屏 第七代屏下指纹 6GB+128GB 碳纤黑 游戏智能手机 小米 红米",
+            "img_url":"//img12.360buyimg.com/mobilecms/s410x410_jfs/t1/65038/26/483/224755/5ceb4b6cE78860d43/0ba7ba8198621b7c.jpg!q70.dpg.webp",
+            "nprice":"1999",
+            "oprice":"2099",
+            "num":"788",
+            "max":10,
+            "time":"2018-05-31T03:50:28.000Z"
+        },
+        {
+            "id":8,
+            "title":"小米MIX2S 骁龙845 AI感光双摄    四曲面陶瓷全面屏 白色 多功能 NFC 6GB+128GB 游戏智能拍照手机",
+            "img_url":"//img12.360buyimg.com/mobilecms/s410x410_jfs/t16327/64/2674134727/179245/ec830987/5ab9e7d7N66383b39.jpg!q70.dpg.webp",
+            "nprice":"999",
+            "oprice":"1199",
+            "num":"645",
+            "max":10,
+            "time":"2018-05-31T03:50:28.000Z"
+        },
+        {
+            "id":9,
+            "title":"小米9 4800万超广角三摄 8GB+128GB全息幻彩蓝 骁龙855 全网通4G 双卡双待 水滴全面屏拍照智能游戏手机",
+            "img_url":"//img10.360buyimg.com/mobilecms/s410x410_jfs/t1/16130/39/12690/305219/5caac12aEbb843fa5/ce6c1dee969fb626.jpg!q70.dpg.webp",
+            "nprice":"999",
+            "oprice":"1199",
+            "num":"645",
+            "max":10,
+            "time":"2018-05-31T03:50:28.000Z"
+        },
+        {
+            "id":10,
+            "title":"Redmi 7 4000mAh超长续航 骁龙632 1200万AI双摄 18个月超长质保 AI人脸解锁 4GB+64GB 亮黑色 游戏智能手机 小米 红米",
+            "img_url":"//img10.360buyimg.com/mobilecms/s410x410_jfs/t1/15697/35/15502/80814/5cb06aa7Efbb90aac/59332b5ac00a297c.jpg!q70.dpg.webp",
+            "nprice":"899",
+            "oprice":"1199",
+            "num":"32",
+            "max":10,
+            "time":"2018-05-31T03:50:28.000Z"
+        },
+        {
+            "id":11,
+            "title":"Redmi Note7pro 索尼4800万超清双摄 骁龙675 18个月超长质保 4000mAh超长续航 6GB+128GB 镜花水月 游戏智能手机 小米 红米",
+            "img_url":"//img12.360buyimg.com/mobilecms/s410x410_jfs/t1/40924/14/9293/146092/5d2da5c3E80789a10/738b1b7131377b78.jpg!q70.dpg.webp",
+            "nprice":"1399",
+            "oprice":"1599",
+            "num":"54",
+            "max":10,
+            "time":"2018-05-31T03:50:28.000Z"
+        },
+        {
+            "id":12,
+            "title":"小米9 SE 4800万超广角三摄 骁龙712 水滴全面屏 游戏智能拍照手机 6GB+64GB 深空灰 全网通4G 双卡双待",
+            "img_url":"//img10.360buyimg.com/mobilecms/s410x410_jfs/t1/15782/2/7566/63413/5c6d01d3Ed97718f2/7b04cfb0a8cab0dd.jpg!q70.dpg.webp",
+            "nprice":"1599",
+            "oprice":"1699",
+            "num":"89",
+            "max":10,
+            "time":"2018-05-31T03:50:28.000Z"
+        },
+        {
+            "id":13,
+            "title":"小米CC9e 索尼4800万旗舰相机 3200万美颜自拍 4030mAh 屏幕指纹 白色恋人 6GB+64GB 游戏智能拍照手机",
+            "img_url":"//img12.360buyimg.com/mobilecms/s410x410_jfs/t1/76327/24/7494/166690/5d5a7346E521dde23/c399d644f61cf94b.jpg!q70.dpg.webp",
+            "nprice":"1299",
+            "oprice":"1569",
+            "num":"100",
+            "max":10,
+            "time":"2018-05-31T03:50:28.000Z"
+        },
+        {
+            "id":14,
+            "title":"小米CC9 3200万美颜自拍 索尼4800万超清三摄 多功能NFC 4030mAh 深蓝星球 6GB+64GB 游戏智能拍照手机",
+            "img_url":"//img13.360buyimg.com/mobilecms/s410x410_jfs/t1/59999/2/7728/257703/5d5a6f5cE5a544acc/04d909d25f598c46.jpg!q70.dpg.webp",
+            "nprice":"999",
+            "oprice":"1199",
+            "num":"645",
+            "max":10,
+            "time":"2018-05-31T03:50:28.000Z"
+        },
+        {
+            "id":15,
+            "title":"Redmi 7A 4000mAh超长续航 AI人脸解锁 骁龙8核  标配10W充电器 整机防泼溅 2GB+32GB 磨砂黑 游戏智能手机 小米 红米",
+            "img_url":"//img14.360buyimg.com/mobilecms/s410x410_jfs/t1/69202/9/537/298511/5cebc5ffE9d00f980/68dae120cc1540a9.jpg!q70.dpg.webp",
+            "nprice":"579",
+            "oprice":"689",
+            "num":"367",
+            "max":10,
+            "time":"2018-05-31T03:50:28.000Z"
+        }
+    ]
+}
